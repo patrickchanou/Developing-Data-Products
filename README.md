@@ -1,4 +1,4 @@
-# Developing-Data-Products
+# Developing Data Products Final Class Project
 ## The goal of this project is to create a Shiny application and deploy it on Rstudio's servers using the instructions below: 
 
 1.Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
